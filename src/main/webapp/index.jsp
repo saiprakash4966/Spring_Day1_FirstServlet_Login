@@ -1,6 +1,5 @@
 <html>
 <body>
-<h2>To Login Page</h2>
-<a href="login.html">Login Page</a>
+<h2>Hello World!</h2>
 </body>
 </html>
